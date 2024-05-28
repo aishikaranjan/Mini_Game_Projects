@@ -1,2 +1,2 @@
 # Mini_Game_Projects
-Created Few Small interactive games using HTML and JavaScript
+Created Few lightweight interactive games using HTML and JavaScript for fun :)
